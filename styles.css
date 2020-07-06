@@ -4,8 +4,14 @@ img{
     height: 30vw;
     padding: 10px;
 }
+#logo{
+    height: 2em;
+    width: 2em;
+    vertical-align: middle;
+}
 body{
     width: 100%;
+    max-width: 1024px;
     margin: 0 auto;
 }
 figure{
@@ -16,4 +22,11 @@ h1 {
     text-align: center;
     color: yellow;
     background-color: #011e41;
+}
+footer{
+    font-size: 12px;
+}
+
+.story{
+    font-family: Tahoma, Geneva, sans-serif;
 }
