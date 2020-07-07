@@ -1,8 +1,10 @@
-img{
+.pics{
     width: 22.5vw;
     max-width: 50%;
     height: 30vw;
-    padding: 10px;
+    margin: 10px;
+    border-style: solid;
+    border-color: #011e41;
 }
 #logo{
     height: 2em;
@@ -11,7 +13,7 @@ img{
 }
 body{
     width: 100%;
-    max-width: 1024px;
+    max-width: 1200px;
     margin: 0 auto;
 }
 figure{
@@ -20,7 +22,7 @@ figure{
 
 h1 {
     text-align: center;
-    color: yellow;
+    color: gold;
     background-color: #011e41;
 }
 footer{
@@ -34,4 +36,5 @@ footer{
 video{
     width: 100%;
     height: auto;
+    padding: 10px;
 }
